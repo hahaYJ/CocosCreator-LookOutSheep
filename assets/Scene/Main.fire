@@ -200,6 +200,12 @@
     "_clips": [
       {
         "__uuid__": "d953e1b2-03a4-4188-8add-0bab81a84252"
+      },
+      {
+        "__uuid__": "a06f103f-7e97-437d-922d-d3e8b86dc7cd"
+      },
+      {
+        "__uuid__": "f254045d-ac2e-4858-9b19-e82022d0c956"
       }
     ],
     "playOnLoad": true
